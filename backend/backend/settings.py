@@ -1,5 +1,4 @@
 from pathlib import Path
-
 from os import getenv
 
 BASE_DIR = Path(__file__).resolve().parent.parent
